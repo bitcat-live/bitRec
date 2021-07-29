@@ -13,8 +13,8 @@ div .box{
 	max-width:1000px;
 	/*background-color: #FFFFFF;*/
 	margin: 0 auto;
-	padding-left:20px;
-	padding-right:20px;
+	padding-left:10px;
+	padding-right:10px;
 }
 
 
@@ -39,8 +39,8 @@ div .right{
 }
 .logo_text{
 	color: #cccccc;
-    font-size: 28px;
-	margin-left: 20px;	
+    font-size: 24px;
+	margin-left: 10px;	
 }
 .nav_text{
 	margin-left: 20px;

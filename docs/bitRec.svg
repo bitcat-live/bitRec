@@ -1,0 +1,9 @@
+<svg width="224" height="224" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <rect rx="40" canvas="#f7f7f7" canvas-opacity="1" id="svg_2" height="207" width="209" y="8.500059" x="7.750071" stroke-width="1.5" stroke="#ffffff" fill="#990000"/>
+  <rect rx="25" id="svg_4" height="92.749602" width="47.999794" y="42.549817" x="87.500171" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+  <rect id="svg_5" height="26.249887" width="13.249943" y="161.049308" x="104.500096" stroke-width="1.5" stroke="#ffffff" fill="#ffffff"/>
+  <path stroke="#ffffff" id="svg_8" d="m71.743493,108.07127c0,0 0.708636,37.858422 39.644254,38.086684c38.935618,0.228262 40.194869,-38.60842 40.194869,-38.60842c0,0 15.41721,0.260868 15.41721,0.260868c0,0 -2.607394,53.510486 -55.887387,53.738747c-53.279993,0.228261 -55.612078,-53.738747 -55.612676,-53.790916c0.000598,0.052169 16.24373,0.313037 16.24373,0.313037z" stroke-opacity="null" stroke-width="1.5" fill="#ffffff"/>
+ </g>
+</svg>
