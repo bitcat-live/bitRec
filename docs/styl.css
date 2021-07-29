@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+	color: #2288FF;
+}
+
+
+div .box{
+	height: 100%;
+	max-width:1000px;
+	/*background-color: #FFFFFF;*/
+	margin: 0 auto;
+	padding-left:20px;
+	padding-right:20px;
+}
+
+
+/*头部样式*/
+#head {
+    height: 66px;
+    background-color: #345;
+    opacity: 0.983;
+	color: #cccccc;
+}
+
+#head .left{
+	height: 100%;
+	line-height: 66px;
+    float: left;
+}
+div .right{
+	height: 100%;
+	line-height: 66px;
+	text-align: right;
+    float: right;
+}
+.logo_text{
+	color: #cccccc;
+    font-size: 28px;
+	margin-left: 20px;	
+}
+.nav_text{
+	margin-left: 20px;
+	color: #ffddcc;
+    font-size: 20px;	
+}
+#div_logo{
+	float: left;
+}
+#img_logo{
+	margin-top: 10px;
+}
+
+#content{
+	color: #111111;
+	min-height: 500px;
+    margin-top: 20px;
+}
+/*通用的文本样式*/
+.div_title {
+    width: 100%;
+    margin: auto;
+}
+
+.title1{
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    color: #555555;
+    font-size: 24px;
+}
+.title2{
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    color: #999999;
+    font-size: 18px;
+}
+
+.content_text {
+	margin-top: 15px;
+    line-height: 32px;
+    color: #555555;
+    font-size: 18px;
+}
+
+.title {
+    font-size: 22px;
+    font-weight: bold;
+    color: #424242;
+    margin-bottom: 10px;
+}
+
+/*底部*/
+#foot{
+	color: #aaaaaa;
+    background-color: #345;
+	height: 80px;
+    margin-top: 40px;
+}
+
+div .cont{
+	height: 100%;
+	line-height: 66px;
+	text-align: center;
+}
